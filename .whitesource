@@ -1,7 +1,7 @@
 {
   "scanSettings": {
     "configMode": "EXTERNAL",
-    "configExternalURL": "https://raw.githubusercontent.com/samjcs/axios-test/main/whitesource.config?token=ACDO4CEQEBEXWNEBV3GVXHDBVFGOE",
+    "configExternalURL": "https://raw.githubusercontent.com/samjcs/axios-test/main/whitesource.config",
     "projectToken": "",
     "baseBranches": []
   },
