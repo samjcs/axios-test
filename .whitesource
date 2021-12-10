@@ -1,7 +1,7 @@
 {
   "scanSettings": {
-    "configMode": "LOCAL",
-    "configExternalURL": "",
+    "configMode": "EXTERNAL",
+    "configExternalURL": "https://raw.githubusercontent.com/samjcs/thanksgiving-dinners/master/whitesource.config",
     "projectToken": "",
     "baseBranches": []
   },
