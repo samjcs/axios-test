@@ -3,7 +3,8 @@
     "configMode": "EXTERNAL",
     "configExternalURL": "https://raw.githubusercontent.com/samjcs/thanksgiving-dinners/master/whitesource.config",
     "projectToken": "",
-    "baseBranches": []
+    "baseBranches": [],
+    "enableSAST": true
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
